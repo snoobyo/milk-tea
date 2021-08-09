@@ -13,7 +13,8 @@
     </parent>
     <groupId>com.tea</groupId>
     <artifactId>milk</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0</version>
+    <packaging>pom</packaging>
     <name>milk-tea</name>
     <description>Demo project for Spring Boot</description>
     <properties>
