@@ -1,0 +1,11 @@
+server:
+  port: 11000
+spring:
+  application:
+    name: order
+  cloud:
+    nacos:
+      discovery:
+        group: user
+        namespace: dev
+        server-addr: localhost:8848
